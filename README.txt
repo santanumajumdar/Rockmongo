@@ -47,13 +47,13 @@ Thanks
 
 Bugs & Issues
 --------------------------------------
-Please feel free to report any bugs and issues to me, my email is: iwind.liu@gmail.com .
+Please feel free to report any bugs and issues to me, my email is: santanu.majumdar@outlook.com .
 
 
 Source Code Repository
 --------------------------------------
 Repositories are located at 
-  https://github.com/iwind/rockmongo.git
+  https://github.com/santanumajumdar/Rockmongo.git
 
 
 Contributing
